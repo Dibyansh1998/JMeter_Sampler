@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/dibya/OneDrive/Documents/OneNote Notebooks/selenium-server-standalone-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dibya/OneDrive/Documents/OneNote Notebooks/webdrivermanager-5.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dibya/OneDrive/Documents/OneNote Notebooks/httpclient5-5.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dibya/OneDrive/Documents/OneNote Notebooks/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dibya/OneDrive/Documents/OneNote Notebooks/httpclient-4.5.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dibya/OneDrive/Documents/OneNote Notebooks/httpcore5-5.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dibya/OneDrive/Documents/OneNote Notebooks/slf4j-api-2.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dibya/OneDrive/Documents/OneNote Notebooks/slf4j-simple-2.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dibya/OneDrive/Documents/OneNote Notebooks/log4j-slf4j-impl-2.23.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dibya/OneDrive/Documents/OneNote Notebooks/httpclient5-5.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
